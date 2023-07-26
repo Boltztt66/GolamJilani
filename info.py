@@ -2,6 +2,6 @@ API_ID       = 11264403
 API_HASH     = "c141f83588c377f60dfcf5512d19519a"
 BOT_TOKEN    = "6024692418:AAEZX4nztYDsvweXzQ12anpDwhbqvMbKlJk"
 SESSION      = "BQCam1_DkBYeon9h4ikPINOpYPNofxoObBgq6JWSfZQTrlkzMr4VuZsdKr-go2HLr5JD_qm7ZxFinz0_qM2FFO398DMV2G2DyXi4lEbQC9EL_gH05MKwY4ElWDm0jNA1yJc0oYhFiyIXagKRAi0vnvof8HvObZ67EyZYyx0eZnuzXJqft5-YZ-WWQoMfC-7kF_kIEw11mfcWeSkU7q-e8rhINa7bpVJnRgTHnU_xLHjPi_BFWyAWzM98pJuh4lBIrV4UsyO9GVH3uUL2G9lWZK5czhNATOHLIjvU-ONWPfzh3Ap2NUrmF17sTboGoHU1JCy2I-xUSZdQs-IQkt4WsBhLAAAAAVYOcvsA"
-DATABASE_URI = "mongodb+srv://MdiskDb:MdiskDb@cluster0.lmirmtn.mongodb.net/?retryWrites=true&w=majority"
-LOG_CHANNEL  = -1001980857896
-ADMIN        = 6051691339
+DATABASE_URI = "mongodb+srv://Golamj:24423390@cluster0.2b0pdpa.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001978216532
+ADMIN        = 5738754811
